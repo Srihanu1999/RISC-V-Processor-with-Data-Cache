@@ -11,8 +11,6 @@ This project implements a 32-bit single-cycle RISC-V processor (RV32I) in Verilo
 - Processor waits when data is not immediately available from memory  
 - Testbench included for functional verification  
 
-## Simulation
-The design was simulated using ModelSim. Functional correctness was verified by observing instruction execution and cache behavior under different memory access scenarios.
 
 ## Learnings
 - Designed a RISC-V processor using Verilog  
